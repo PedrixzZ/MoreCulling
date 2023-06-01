@@ -28,8 +28,8 @@
   ],
   "accessWidener" : "moreculling.accesswidener",
   "depends": {
-    "fabricloader": ">=0.14.10",
-    "minecraft": ">=1.19.4",
+    "fabricloader": ">=0.14.14",
+    "minecraft": ">=23w05a",
     "java": ">=17"
   },
   "embedded": {
